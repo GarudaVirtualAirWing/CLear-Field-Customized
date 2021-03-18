@@ -14,3 +14,9 @@ Currently Added feature :
 To do :
 - decorate more airfields to add the feels of 'comfy'
 - add more threat for ground targets(enemy CAS/SEAD/etc)
+- add special event :
+     - Supporting ground team to take over SAM site
+     - Supporting ground team to take over airfield
+     - Bomber escort mission
+     - Cargo Delivery to supply airfield warehouse (still in rough sketch)
+- Limited Arsenal (still in consideration)
