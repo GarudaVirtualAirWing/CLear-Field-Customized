@@ -1,0 +1,31 @@
+Install
+
+Place the sound file any place you wish to keep it. I like to keep it in my DCS File tree in the Missions folder in a File I named MY Sounds. You can put this file any place on your computer you wish long as you remember where it is at.
+
+Open Mission Editor
+
+Create new Mission or Open Mission
+
+In the Play Area (try at a base) hit the CREATE TRIGGER ZONE Button.
+
+Name the Zone (remember the name try RADIO CHATTER)
+
+SET the RADIUS to 200
+
+Hit the SET RULES FOR TRIGGER button.
+
+In the TRIGGER box hit NEW button.
+
+In the ACTION box hit NEW button.
+SET ACTION to RADIO TRANSMISSION.
+Hit the OPEN button (Find the Sound File) click OK button
+In the ZONE window make sure the ZONE name we gave our Zone is selected RADIO CHATTER
+IF NOT click on the window and find Radio Chatter Zone.
+
+MODULATION set to AM or FM you decide it don't matter
+
+FREQ. MHZ set to What ever Freq. MHZ you wish to use.
+
+POWER W needs changed to 10,000 from 100
+
+Play the mission change the AM or FM radio to the Freq. MHZ setting to hear the Radio Chatter sound file play in the game.
