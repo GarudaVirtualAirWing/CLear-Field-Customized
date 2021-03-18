@@ -8,3 +8,8 @@ Current Added feature :
 - Moose
 - Ground and static object state saving
 - customize loadout (sd-10 for the sukhoi's)
+- fully decorated for dedicated airfield used by players
+
+To do :
+- decorate more airfields to add the feels of 'comfy'
+- add more threat for ground targets(enemy CAS/SEAD/etc)
